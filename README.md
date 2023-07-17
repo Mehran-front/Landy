@@ -1,1 +1,1 @@
-linke: https://mehran-front.github.io/Landy/
+link: https://mehran-front.github.io/Landy/
