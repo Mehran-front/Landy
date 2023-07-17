@@ -939,3 +939,12 @@ color: #ee0979;
 .contact-footer-sand-email button > i {
   font-size: 25px;
 }
+/*  */
+.My{
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 10px 0;
+  background-color: #ee0979;
+  color: #fff;
+  text-align: center;
+}
